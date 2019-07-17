@@ -1,0 +1,27 @@
+{
+  "name": "collabotation2",
+  "version": "1.0.0",
+  "description": "my app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shiv pratap",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "docx": "^4.7.1",
+    "express": "^4.16.4",
+    "html-docx-js": "^0.3.1",
+    "jsonwebtoken": "^8.4.0",
+    "moment-timezone": "^0.5.23",
+    "mongoose": "^5.4.6",
+    "multer": "^1.4.1",
+    "node-datetime": "^2.1.2",
+    "nodemailer": "^5.1.1",
+    "request": "^2.88.0",
+    "request-ip": "^2.1.3",
+    "short-id": "0.1.0-1",
+    "socket.io": "^2.2.0"
+  }
+}
