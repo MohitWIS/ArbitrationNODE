@@ -4,8 +4,8 @@
   "description": "my app",
   "main": "app.js",
   "scripts": {
-    //"test": "echo \"Error: no test specified\" && exit 1"
-    "test": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+    //"test": "node app.js"
   },
   "author": "shiv pratap",
   "license": "ISC",
